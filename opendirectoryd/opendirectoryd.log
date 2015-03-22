@@ -1,0 +1,25 @@
+2015-03-16 21:34:48.188881 CST - AID: 0x0000000000000000 - opendirectoryd (build 382.0) launched...
+2015-03-16 21:34:48.191705 CST - AID: 0x0000000000000000 - Logging level limit changed to 'error'
+2015-03-16 21:34:48.219451 CST - AID: 0x0000000000000000 - Initialize trigger support
+2015-03-16 21:34:48.240117 CST - AID: 0x0000000000000000 - Loaded bundle at path '/System/Library/OpenDirectory/Modules/SystemCache.bundle'
+2015-03-16 21:34:48.260384 CST - AID: 0x0000000000000000 - Registered node with name '/Active Directory' as hidden
+2015-03-16 21:34:48.260626 CST - AID: 0x0000000000000000 - Registered node with name '/Configure' as hidden
+2015-03-16 21:34:48.260941 CST - AID: 0x0000000000000000 - Discovered configuration for node name '/Contacts' at path '/Library/Preferences/OpenDirectory/Configurations//Contacts.plist'
+2015-03-16 21:34:48.261005 CST - AID: 0x0000000000000000 - Registered node with name '/Contacts'
+2015-03-16 21:34:48.261315 CST - AID: 0x0000000000000000 - Registered node with name '/LDAPv3' as hidden
+2015-03-16 21:34:48.273113 CST - AID: 0x0000000000000000 - Registered node with name '/Local' as hidden
+2015-03-16 21:34:48.274160 CST - AID: 0x0000000000000000 - Registered node with name '/NIS' as hidden
+2015-03-16 21:34:48.274659 CST - AID: 0x0000000000000000 - Discovered configuration for node name '/Search' at path '/Library/Preferences/OpenDirectory/Configurations//Search.plist'
+2015-03-16 21:34:48.274674 CST - AID: 0x0000000000000000 - Registered node with name '/Search'
+2015-03-16 21:34:48.285113 CST - AID: 0x0000000000000000 - Loaded bundle at path '/System/Library/OpenDirectory/Modules/legacy.bundle'
+2015-03-16 21:34:48.294154 CST - AID: 0x0000000000000000 - Loaded bundle at path '/System/Library/OpenDirectory/Modules/search.bundle'
+2015-03-16 21:34:48.297857 CST - AID: 0x0000000000000000 - '/Search' has registered, loading additional services
+2015-03-16 21:34:48.297866 CST - AID: 0x0000000000000000 - Initialize augmentation support
+2015-03-16 21:34:48.302057 CST - AID: 0x0000000000000000 - Successfully registered for Kernel identity service requests
+2015-03-16 21:34:48.302193 CST - AID: 0x0000000000000000 - Adjusting kernel ID cache (100 -> 250) and membership cache (100 -> 500)
+2015-03-16 21:34:48.329935 CST - AID: 0x0000000000000000 - Loaded bundle at path '/System/Library/OpenDirectory/Modules/PlistFile.bundle'
+2015-03-16 21:34:48.356365 CST - AID: 0x0000000000000000 - Loaded bundle at path '/System/Library/OpenDirectory/Modules/FDESupport.bundle'
+2015-03-16 21:34:48.365685 CST - AID: 0x0000000000000000 - Loaded bundle at path '/System/Library/OpenDirectory/Modules/AppleID.bundle'
+2015-03-16 21:34:48.391091 CST - AID: 0x0000000000000000 - Loaded bundle at path '/System/Library/OpenDirectory/Modules/ConfigurationProfiles.bundle'
+2015-03-16 21:34:48.392825 CST - AID: 0x0000000000000000 - Registered subnode with name '/Local/Default'
+2015-03-16 21:34:49.567372 CST - AID: 0x0000000000000000 - Loaded bundle at path '/System/Library/OpenDirectory/Modules/ldap.bundle'
